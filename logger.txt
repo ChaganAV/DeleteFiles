@@ -1,0 +1,28 @@
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: Начало от 2023-06-14T15:40:40.691030500
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: текущая директория: C:\Projects\Java\DeleteFiles\DeleteFiles
+июн. 14, 2023 3:40:40 PM org.example.SelectTarget fullTargetFromSetting
+INFO: root: catalogs
+июн. 14, 2023 3:40:40 PM org.example.SelectTarget fullTargetFromSetting
+INFO: catalog: #text
+июн. 14, 2023 3:40:40 PM org.example.SelectTarget fullTargetFromSetting
+INFO: catalog: targets
+июн. 14, 2023 3:40:40 PM org.example.SelectTarget fullTargetFromSetting
+INFO: targets: [targets: null]
+июн. 14, 2023 3:40:40 PM org.example.SelectTarget fullTargetFromSetting
+INFO: catalog: #text
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: прочитали файл настроек: setting.xml
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: смотрим каталог: C:\Projects\Java\DeleteFiles\test2
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: смотрим каталог: C:\Projects\Java\DeleteFiles\test1
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: И. Ю. Баженова - JBuilder 5. Программирование на Java.BAK
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: дата файла: 2018-01-13T17:06:58Z
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: срок давности файла в днях: 
+июн. 14, 2023 3:40:40 PM org.example.Application run
+INFO: удаляем файл И. Ю. Баженова - JBuilder 5. Программирование на Java.BAK

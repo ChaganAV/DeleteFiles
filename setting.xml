@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<catalogs>
+	<targets>
+		<target name="test1">C:\Projects\Java\DeleteFiles\test1</target>
+		<target name="test2">C:\Projects\Java\DeleteFiles\test2</target>
+	</targets>
+</catalogs>
